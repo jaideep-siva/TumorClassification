@@ -46,8 +46,7 @@ Our exploration spanned several models, each evaluated for its efficacy in tumor
 - **Baseline Model**: We established a baseline with a custom CNN to gauge the performance of more sophisticated models.
 - **Advanced Models**: Implementations of VGG16, VGG19, and ResNet50 followed, with each model's performance meticulously analyzed.
 
-(![Uploading slide_5_image.png…]()
-)
+
 
 ## Results and Future Scope
 ![image](https://github.com/jaideep-siva/TumorClassification/assets/112749838/3c29838c-7f98-462e-84a1-6d9776d9f8b9)
@@ -56,14 +55,6 @@ Findings reveal promising directions for future research, including the integrat
 ![image](https://github.com/jaideep-siva/TumorClassification/assets/112749838/ae2fdd0c-7e48-463c-a4c8-33852068230d)
 
 
-![Future Scope](./presentation_images/slide_6_image.png)
 
-## Acknowledgments
 
-We extend our gratitude to everyone who contributed to this project and look forward to the advancements our research may inspire.
 
-Thank you for exploring our project.
-
----
-
-For a more interactive experience, consider viewing the images in this document in a Markdown-supported viewer.
