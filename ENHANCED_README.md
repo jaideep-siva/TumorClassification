@@ -1,7 +1,7 @@
 
-# CSC 5991 Final Presentation - Tumor Classification
+# Tumor Classification
 
-Welcome to the overview of our project on Tumor Classification, presented by Jaideep Siva Senthil. This project aims to leverage advanced machine learning models to accurately classify tumors from MRI scans. Here, we detail our approach, from data preprocessing to model evaluation, and discuss future directions.
+Welcome to the overview of Tumor Classification, presented by Jaideep Siva Senthil. This project aims to leverage advanced machine learning models to accurately classify tumors from MRI scans. Here, we detail our approach, from data preprocessing to model evaluation, and discuss future directions.
 
 ## Project Analysis
 
@@ -16,7 +16,8 @@ We initiated our journey by delineating the key phases of our project:
 - Evaluation of Advanced Models
 - Future Scope Exploration
 
-![Project Overview](./presentation_images/slide_2_image.png)
+![Project Overview]![image](https://github.com/jaideep-siva/TumorClassification/assets/112749838/9388479f-f960-492c-b439-5298492f54b1)
+
 
 ### Project Workflow
 
@@ -25,13 +26,15 @@ Our workflow is a structured approach to tackling the classification challenge, 
 - **Data Preparation**: MRI scans were collected, featuring both tumor and non-tumor cases. A concerted effort was made to clean and preprocess this data for model training.
 - **Model Development**: Starting with a baseline CNN model, we progressively explored more complex architectures like VGG and ResNet, applying transfer learning to enhance performance.
 
-![Project Workflow](./presentation_images/slide_3_image.png)
+![Project Workflow]![image](https://github.com/jaideep-siva/TumorClassification/assets/112749838/903f0832-809d-4d7f-bd7b-49115def7a11)
+
 
 ## Data Cleaning and Augmentation
 
 A critical step in our process was preparing the data to ensure robust model training. This included resizing, augmentation, and splitting the dataset into training, testing, and validation sets.
+![Raw Data]![image](https://github.com/jaideep-siva/TumorClassification/assets/112749838/ad214401-c3c2-48ef-ba1a-fd90641bc197)
 
-![Data Cleaning](./presentation_images/slide_4_image.png)
+![Data Cleaning]![image](https://github.com/jaideep-siva/TumorClassification/assets/112749838/96e3afb4-6824-41a4-93e4-dc534f67a427))
 
 ## Model Training and Evaluation
 
@@ -40,7 +43,8 @@ Our exploration spanned several models, each evaluated for its efficacy in tumor
 - **Baseline Model**: We established a baseline with a custom CNN to gauge the performance of more sophisticated models.
 - **Advanced Models**: Implementations of VGG16, VGG19, and ResNet50 followed, with each model's performance meticulously analyzed.
 
-![Model Training and Evaluation](./presentation_images/slide_5_image.png)
+![Model Training and Evaluation](![Uploading slide_5_image.png…]()
+)
 
 ## Results and Future Scope
 
